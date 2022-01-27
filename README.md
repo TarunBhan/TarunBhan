@@ -1,4 +1,4 @@
-[[!logo](https://github.com/TarunBhan/TarunBhan/blob/main/assets/Screenshot%20(487).jpg)](https://auth.geeksforgeeks.org/user/tarun1500cse19/profile)
+[![logo](https://github.com/TarunBhan/TarunBhan/blob/main/assets/Screenshot%20(487).jpg)](https://auth.geeksforgeeks.org/user/tarun1500cse19/profile)
 ### Hi there 👋
 
 <!--
