@@ -1,9 +1,6 @@
 [![logo](https://github.com/TarunBhan/TarunBhan/blob/main/assets/Screenshot%20(487).jpg)](https://auth.geeksforgeeks.org/user/tarun1500cse19/profile)
 ### Hi there 👋
 
-
-**TarunBhan/TarunBhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
