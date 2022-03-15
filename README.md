@@ -3,10 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning BACKEND DEVOLPER
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
+- 🔭 I’m currently working In Rario
+- 🌱 I’m currently learning Blockchain
+- 🤔 I’m looking for help with  
 - 💬 Ask me about DSA AND WEB DEVOLPMENT
 - 📫 How to reach me: BELOW LINKS             
 - 😄 Pronouns: ...
