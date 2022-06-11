@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working In Rario
+- 🔭 I’m currently working In @[RARIO.COM](https://rario.com/)
 - 🌱 I’m currently learning Nextjs,TypeScript and Blockchain.
 - 💬 Ask me about DSA AND WEB DEVOLPMENT
 - 📫 How to reach me: BELOW LINKS             
