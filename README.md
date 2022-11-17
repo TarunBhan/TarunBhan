@@ -1,19 +1,25 @@
-[![logo](https://github.com/TarunBhan/TarunBhan/blob/main/assets/Screenshot%20(487).jpg)](https://auth.geeksforgeeks.org/user/tarun1500cse19/profile)
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tarun Bhan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunbhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunbhan" /> </p>
 
-- 🔭 I’m currently working In [RARIO](https://rario.com/)
-- 🌱 I’m currently learning Nextjs,TypeScript and Blockchain.
-- 💬 Ask me about DSA AND WEB DEVOLPMENT
-- 📫 How to reach me: BELOW LINKS             
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Nothin Much about Me
+- 🔭 I’m currently working on [RARIO](https://www.rario.com/)
 
-Contact Me-
+- 🌱 I’m currently learning **Nextjs,TypeScript and Blockchain.**
 
-LinkedIN- https://www.linkedin.com/in/tarun-bhan-singh-676a6b194/ 
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-geekforgeeks- https://auth.geeksforgeeks.org/user/tarun1500cse19/profile 
+- 💬 Ask me about **NextJs,TypeScript**
 
-Gmail- tarun1500.cse19@chitkara.edu.in
+- 📫 How to reach me **tarunbhanthakur@gmail.com**
+
+<h3 align="left">Connect with me: </h3>
+
+<h3 align="left">Languages and Tools💻: </h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunbhan&show_icons=true&locale=en&layout=compact" alt="tarunbhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunbhan&show_icons=true&locale=en" alt="tarunbhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunbhan&" alt="tarunbhan" /></p>
